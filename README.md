@@ -12,6 +12,10 @@ This project involves creating a Direct Digital Synthesizer to:
 - We later use Matlab to plot the 10-bit digital output.
 - The Master Clock of the system is 1MHz.
 
+## Architecture
+
+![Architecture](images/architecture.png)
+
 
 
 --- 
