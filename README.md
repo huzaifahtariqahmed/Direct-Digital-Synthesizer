@@ -1,1 +1,1 @@
-# Direct-Digital-Synthesizer
+# Direct DIgital Synthesizer Design in Verilog
