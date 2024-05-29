@@ -1,4 +1,4 @@
-# Direct DIgital Synthesizer Design in Verilog
+# Direct Digital Synthesizer Design in Verilog
 
 ## What is DDS?
 
