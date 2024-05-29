@@ -14,7 +14,7 @@ This project involves creating a Direct Digital Synthesizer to:
 
 ## Architecture
 
-![Architecture](images/architecture.png)
+![Architecture](Images/architecture.png)
 
 
 
