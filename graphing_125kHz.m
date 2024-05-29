@@ -22,7 +22,7 @@ hold off
 legend('Analog', 'Digital');
 xlabel('Time');
 ylabel('DDS Sin');
-title('10 kHZ Sine Wave Generated Using DDS');
+title('125 kHZ Sine Wave Generated Using DDS');
 
 % Show the grid
 grid on;
