@@ -25,6 +25,18 @@ can see a 10 bit fsw going into phase counter which is our phase accumulator and
 value going to phase to amplitude block where it assigns a specific amplitude to that counter value,
 giving us a digital sine wave as output.
 
+## Generated Sine Waves (Plotted in Matlab)
+
+### 10kHz Sine Wave
+
+![10kHz Sine Wave](Images/10kHz.png)
+
+### 50kHz Sine Wave
+
+![50kHz Sine Wave](Images/50kHz.png)
+
+
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
