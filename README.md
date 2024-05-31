@@ -35,7 +35,17 @@ giving us a digital sine wave as output.
 
 ![50kHz Sine Wave](Images/50kHz.png)
 
+### 125kHz Sine Wave
 
+![125kHz Sine Wave](Images/125kHz.png)
+
+### 200kHz Sine Wave
+
+![200kHz Sine Wave](Images/200kHz.png)
+
+### 250kHz Sine Wave
+
+![250kHz Sine Wave](Images/250kHz.png)
 
 --- 
 
