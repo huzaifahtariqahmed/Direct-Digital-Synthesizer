@@ -16,7 +16,9 @@ This project involves creating a Direct Digital Synthesizer to:
 
 ![Architecture](Images/architecture.png)
 
+## Verilog Top Module Schematic Generated
 
+![Top Level Schematic](Images/top_schematic.png)
 
 --- 
 
