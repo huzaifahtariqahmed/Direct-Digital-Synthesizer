@@ -20,6 +20,11 @@ This project involves creating a Direct Digital Synthesizer to:
 
 ![Top Level Schematic](Images/top_schematic.png)
 
+It can be seen that this Vivado Schematic is pretty much same as what was originally proposed. You
+can see a 10 bit fsw going into phase counter which is our phase accumulator and then the counter
+value going to phase to amplitude block where it assigns a specific amplitude to that counter value,
+giving us a digital sine wave as output.
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
