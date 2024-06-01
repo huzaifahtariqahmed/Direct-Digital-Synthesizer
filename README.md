@@ -14,7 +14,7 @@ This project involves creating a Direct Digital Synthesizer to:
 
 ## Architecture
 
-The architecture planned for developing a DDS, is such that I have broken down it down into 2 distinct modules. First we have a "Phase Accumulator" and then we have a "Phase to Amplitude" Module which outputs the desired sine waves.
+The architecture planned for developing a DDS, is such that it is broken down into 2 distinct modules. First we have a "Phase Accumulator" and then we have a "Phase to Amplitude" Module which outputs the desired sine waves.
 
 ![Architecture](Images/architecture.png)
 
