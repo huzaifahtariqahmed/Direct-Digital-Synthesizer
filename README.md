@@ -18,6 +18,10 @@ The architecture planned for developing a DDS, is such that it is broken down in
 
 ![Architecture](Images/architecture.png)
 
+### Phase Accumulator
+
+### Phase To Amplitude 
+
 ## Verilog Top Module Schematic Generated
 
 ![Top Level Schematic](Images/top_schematic.png)
