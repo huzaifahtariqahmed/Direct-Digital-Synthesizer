@@ -20,6 +20,8 @@ The architecture planned for developing a DDS, is such that it is broken down in
 
 ### Phase Accumulator
 
+This module basically acts as a cyclic counter. Basically producing output phases of a Sine Wave.
+
 ### Phase To Amplitude 
 
 ## Verilog Top Module Schematic Generated
