@@ -14,7 +14,7 @@ This project involves creating a Direct Digital Synthesizer to:
 
 ## Architecture
 
-The architecture planned for developing a DDS, is such that it is broken down into 2 distinct modules. First we have a "Phase Accumulator" and then we have a "Phase to Amplitude" Module which outputs the desired sine waves.
+The architecture planned for developing a DDS, is such that it is broken down into 2 distinct modules. First we have a 'Phase Accumulator' and then we have a 'Phase to Amplitude' Module which outputs the desired sine waves.
 
 ![Architecture](Images/architecture.png)
 
@@ -22,7 +22,7 @@ The architecture planned for developing a DDS, is such that it is broken down in
 
 - This module basically acts as a cyclic counter. 
 - Basically producing output phases of a Sine Wave. 
-- It takes as input a "Frequency Select Word (FSW)". 
+- It takes as input a 'Frequency Select Word (FSW)'. 
 - This value is stored in a 10-Bit Register. 
 - This value sets the increments that the phase counter should take.
 - This is what actually sets the frequency of the Sine Wave generated.
