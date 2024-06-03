@@ -27,6 +27,7 @@ The architecture planned for developing a DDS, is such that it is broken down in
 - This value sets the increments that the phase counter should take.
 - This is what actually sets the frequency of the Sine Wave generated.
 - This mechanism allows us to vary the frequency of the Sine Wave generated.
+- 
 
 ### Phase To Amplitude 
 
