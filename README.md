@@ -35,7 +35,10 @@ The architecture planned for developing a DDS, is such that it is broken down in
 
 - This module basically acts like a look up table (LUT).
 - After every increment of the Phase Accumulator, this model assigns a particluar Sine Wave Amplitude based on the current counter value.
-- 
+- However to avoid signed number representation in verilog, I have given the generated sine waves an offset of 50.
+- Which means that the starting amplitude of sine waves is 50'
+- Max amplitude is 100.
+- Min amplitude is 0.
 
 ## Verilog Top Module Schematic Generated
 
