@@ -77,7 +77,9 @@ One thing which is noticed here is the shapes of the sine waves generated. The s
 
 ## FSW Calculation Formula
 
+$$
 FSW = \frac{{(2^n) \times (\text{desired frequency})}}{{\text{clock frequency}}}
+$$
 
 --- 
 
