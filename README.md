@@ -33,6 +33,10 @@ The architecture planned for developing a DDS, is such that it is broken down in
 
 ### Phase To Amplitude 
 
+- This module basically acts like a look up table (LUT).
+- After every increment of the Phase Accumulator, this model assigns a particluar Sine Wave Amplitude based on the current counter value.
+- 
+
 ## Verilog Top Module Schematic Generated
 
 ![Top Level Schematic](Images/top_schematic.png)
