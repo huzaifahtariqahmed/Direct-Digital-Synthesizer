@@ -73,6 +73,10 @@ The Amplitude values at every clock cycle along with the counter value are print
 
 ![250kHz Sine Wave](Images/250kHz.png)
 
+---
+
+One thing which is noticed here is the shapes of the sine waves generated. The 
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
