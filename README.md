@@ -78,9 +78,12 @@ One thing which is noticed here is the shapes of the sine waves generated. The s
 ## FSW Calculation Formula
 
 $$
-FSW = \frac{{(2^n) \times (\text{desired frequency})}}{{\text{clock frequency}}}
+FSW = \frac{{(2^n) \times (\text{desired frequency})}}{{\text{clock frequency (1MHz in our case)}}}
 $$
 
+Where;
+
+n = Number of bits of the Phase Accumulator (10 in our case)
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
