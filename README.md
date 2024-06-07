@@ -28,7 +28,8 @@ The architecture planned for developing a DDS, is such that it is broken down in
 - This is what actually sets the frequency of the Sine Wave generated.
 - This mechanism allows us to vary the frequency of the Sine Wave generated.
 - The maximum value of the counter will be 1024, being a 10-Bit 
-- 
+- It starts of with 0 and at every clock cycle it increments the value set by FSW to the counter value. 
+- It keeps doing this till it fills up the 10-bit counter register, which means when the value exceeds 1024.
 
 ### Phase To Amplitude 
 
