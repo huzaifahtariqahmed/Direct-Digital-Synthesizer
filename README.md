@@ -79,7 +79,8 @@ One thing which is noticed here is the shapes of the sine waves generated. The s
 
 $$
 FSW = \frac{{(2^n) \times (\text{desired frequency})}}{{\text{clock frequency (1MHz in our case)}}}
-
+$$
+$$
 \text{n = Number of bits of the Phase Accumulator (10 in our case)}
 $$
 
