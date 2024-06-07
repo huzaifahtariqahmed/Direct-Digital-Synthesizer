@@ -51,6 +51,8 @@ giving us a digital sine wave as output.
 
 ## Generated Sine Waves (Plotted in Matlab)
 
+The Amplitude values at every clock cycle along with the counter value are printed in the logs in the testbench. So that we could take the output, put it in the text files and import them in Matlab, to plot the sinewaves generated in verilog.
+
 ### 10kHz Sine Wave
 
 ![10kHz Sine Wave](Images/10kHz.png)
