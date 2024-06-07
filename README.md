@@ -79,7 +79,7 @@ The Amplitude values at every clock cycle along with the counter value are print
 
 ---
 
-One thing which is noticed here is the shapes of the sine waves generated. The shapes of the lower frequency waves seem to be much better than those of high frequency waves. This seems odd but it actually isn't. As even if we consider the worst shaped frequency above, the 250kHz Sine Wave, per clock cycle it has 4 increments, due to having a FSW value of 256. This is still quite above the nyquist rate. SO as this is a discrete time wave this is an absolutely valid Sine Wave.
+One thing which is noticed here is the shapes of the sine waves generated. The shapes of the lower frequency waves seem to be much better than those of high frequency waves. This seems odd but it actually isn't. As even if we consider the worst shaped frequency above, the 250kHz Sine Wave, per clock cycle it has 4 increments, due to having a FSW value of 256. This is still quite above the nyquist rate. So as this is a discrete time wave this is an absolutely valid Sine Wave.
 
 --- 
 
